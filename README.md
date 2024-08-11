@@ -13,7 +13,3 @@ The **APOD (Astronomy Picture of the Day) Website** is a web application that di
 - **NASA APOD API:** The source of the images and their descriptions.
 - **Bootstrap (optional):** For responsive design and pre-built UI components.
 - 
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/apod-website.git
