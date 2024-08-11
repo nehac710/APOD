@@ -12,4 +12,4 @@ The **APOD (Astronomy Picture of the Day) Website** is a web application that di
 - **JavaScript (ES6+):** To handle the logic, API calls, and interactivity of the website.
 - **NASA APOD API:** The source of the images and their descriptions.
 - **Bootstrap (optional):** For responsive design and pre-built UI components.
-- 
+
